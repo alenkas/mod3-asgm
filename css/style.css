@@ -45,7 +45,7 @@ h1 {
 }
 
 .navbar-default .navbar-nav>li>a {
-	text-align: center;
+	/*text-align: center;*/
 }
 
 .navbar-default .navbar-nav>li {
@@ -55,7 +55,7 @@ h1 {
 /****** Menu tiles ******/
 
 .row section {
-	min-height: 1000px;
+	min-height: 1500px;
 }
 
 section div {
