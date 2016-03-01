@@ -44,10 +44,6 @@ h1 {
 	margin: 0;
 }
 
-.navbar-default .navbar-nav>li>a {
-	/*text-align: center;*/
-}
-
 .navbar-default .navbar-nav>li {
 	border-bottom: 1px solid #DDD;
 }
@@ -59,41 +55,21 @@ h1 {
 }
 
 section div {
-	padding: 20px 10px 5px;
+	padding: 10px;
 	background-color: #999999;
 	border: 1px solid black;
 	position: relative;
 }
 
 section h4 {
-	font-size: 1.25em;
+	font-size: 1.55em;
+	font-weight: bold;
 	letter-spacing: 1.2px;
-	width: 25%;
 	padding: 0px 5px;
-	/* Make title border overlap with parent div to make it cuter */
-	margin: -1px -1px 0 0;
-	text-align: center;
-	border: 1px solid black;
-	position: absolute;
-	top: 0;
-	right: 0;
 }
 
 section p {
 	margin-bottom: 0;
-}
-
-.chicken h4 {
-    background-color: #DE9396;
-}
-
-.beef h4 {
-    background-color: #CF313C;
-    color: #fff;
-}
-
-.sushi h4 {
-    background-color: #E5D591;
 }
 
 /******* Large screens *******/
